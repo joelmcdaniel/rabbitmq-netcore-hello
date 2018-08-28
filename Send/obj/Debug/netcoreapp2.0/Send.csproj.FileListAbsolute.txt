@@ -1,0 +1,11 @@
+C:\Users\Joel\source\rabbitmq-netcore-hello\Send\bin\Debug\netcoreapp2.0\Send.deps.json
+C:\Users\Joel\source\rabbitmq-netcore-hello\Send\bin\Debug\netcoreapp2.0\Send.runtimeconfig.json
+C:\Users\Joel\source\rabbitmq-netcore-hello\Send\bin\Debug\netcoreapp2.0\Send.runtimeconfig.dev.json
+C:\Users\Joel\source\rabbitmq-netcore-hello\Send\bin\Debug\netcoreapp2.0\Send.dll
+C:\Users\Joel\source\rabbitmq-netcore-hello\Send\bin\Debug\netcoreapp2.0\Send.pdb
+C:\Users\Joel\source\rabbitmq-netcore-hello\Send\obj\Debug\netcoreapp2.0\Send.csprojAssemblyReference.cache
+C:\Users\Joel\source\rabbitmq-netcore-hello\Send\obj\Debug\netcoreapp2.0\Send.csproj.CoreCompileInputs.cache
+C:\Users\Joel\source\rabbitmq-netcore-hello\Send\obj\Debug\netcoreapp2.0\Send.AssemblyInfoInputs.cache
+C:\Users\Joel\source\rabbitmq-netcore-hello\Send\obj\Debug\netcoreapp2.0\Send.AssemblyInfo.cs
+C:\Users\Joel\source\rabbitmq-netcore-hello\Send\obj\Debug\netcoreapp2.0\Send.dll
+C:\Users\Joel\source\rabbitmq-netcore-hello\Send\obj\Debug\netcoreapp2.0\Send.pdb
